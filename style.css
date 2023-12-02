@@ -112,6 +112,7 @@ footer{
 }
 .contact:hover{
     color: darkred;
+    background-color: chocolate;
 }
 input{
     height: 64px;
