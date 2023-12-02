@@ -1,6 +1,9 @@
 /* Header */
 
-
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
 .header{
 
     background-image:url("images/banner/banner3.png");
@@ -9,6 +12,7 @@
     text-align:right;
     width: 1600px;
     padding-top: 20px;
+    
     
 }
 .img{
