@@ -118,6 +118,10 @@ input{
     height: 64px;
     width: 325px;
     font-size: 18px;
+    color: white;
+}
+input:hover{
+    background-color:steelblue;
 }
 .contact{
     height: 64px;
