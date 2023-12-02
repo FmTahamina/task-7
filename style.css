@@ -28,6 +28,7 @@
 }
 .btn:hover{
     color: brown;
+    background-color: darksalmon;
 }
 /* Main-section */
 .main-div{
